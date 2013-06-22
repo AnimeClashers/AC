@@ -1,0 +1,8 @@
+Cod - PK
+Nom - Nomes
+Seg - Segredos e senhas
+Inf - informações sobre o alvo
+Ind - Indexes
+Atr - Atributos Básicos
+Der - Atributos Derivados
+Cha - Carga para deixar algo mais forte
