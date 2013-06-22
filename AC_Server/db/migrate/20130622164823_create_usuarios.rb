@@ -1,5 +1,6 @@
 class CreateUsuarios < ActiveRecord::Migration
   
+  
   def change
     create_table :usuarios do |t|
       t.string :Nom_Nome, :limit => 20
@@ -9,9 +10,5 @@ class CreateUsuarios < ActiveRecord::Migration
 
       t.timestamps
     end
-  end
-  
-  def down
-    
   end
 end

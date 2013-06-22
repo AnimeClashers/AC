@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130622164823) do
+ActiveRecord::Schema.define(:version => 20130622171737) do
 
   create_table "usuarios", :force => true do |t|
     t.string   "Nom_Nome",     :limit => 20
